@@ -1,0 +1,4 @@
+https://game.maj-soul.com/1/v0.8.1.w/audio/music/zhongxialvdong.mp3
+https://game.maj-soul.com/1/v0.8.188.w/audio/music/lobby_autumn.mp3
+https://game.maj-soul.com/1/v0.8.1.w/audio/sound/yiji/lobby_playerlogin.mp3
+https://game.maj-soul.com/1/v0.8.1.w/audio/music/lobby.mp3
